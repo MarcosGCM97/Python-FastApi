@@ -1,0 +1,10 @@
+PUT http://127.0.0.1:8000/user
+Content-Type: application/json
+
+{
+    "id": 4,
+    "name": "dasd",
+    "surname": "jrest",
+    "url": "grest.com",
+    "age": 74
+}

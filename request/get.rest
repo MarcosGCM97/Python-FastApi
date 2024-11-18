@@ -1,0 +1,2 @@
+GET http://127.0.0.1:8000/users/me
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJsb2JvTEMiLCJleHAiOjE3MzE5NTE4MDR9.fAJddBayWTMNO5fW7EIkrTdW4ZutWhSWo6cMW9at6no
